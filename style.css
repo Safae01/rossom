@@ -413,7 +413,37 @@ overflow: hidden;
     width: 19px;
     height: 5px;
     border-radius: 39%;
-    left: -6px;
-    transform: rotate(93deg);
+    left: -7px;
+    transform: rotate(80deg);
     top: -4px;
+  }
+  .right-yed .wosta{
+    position: absolute;
+    background-color: #ffa58a;
+    width: 21px;
+    height: 5px;
+    border-radius: 39%;
+    left: -1px;
+    transform: rotate(88deg);
+    top: -7px;
+  }
+  .right-yed .sabab{
+    position: absolute;
+    background-color: #ffa58a;
+    width: 22px;
+    height: 5px;
+    border-radius: 39%;
+    left: 6px;
+    transform: rotate(101deg);
+    top: -4px;
+  }
+  .right-yed .ibham{
+    position: absolute;
+    background-color: #ffa58a;
+    width: 15px;
+    height: 5px;
+    border-radius: 39%;
+    left: 15px;
+    transform: rotate(113deg);
+    top: 0px;
   }
